@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication_BD_lab5", "PythonApplication_BD_lab5.pyproj", "{DEC8586B-BC2E-47EF-A593-3FCC9EADE69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC8586B-BC2E-47EF-A593-3FCC9EADE69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC8586B-BC2E-47EF-A593-3FCC9EADE69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA30F9C-D61F-48B8-AB4B-E1A26ECA2647}
+	EndGlobalSection
+EndGlobal
